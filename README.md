@@ -10,6 +10,7 @@
 
 
 ![Mikaeel GitHub stats](https://github-readme-stats.vercel.app/api?username=miskaskel&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miskaskel&layout=compact)
 
 
 ### Tecnologias que eu uso no meu dia
