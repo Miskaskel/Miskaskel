@@ -1,9 +1,12 @@
 ### Olá! Eu sou Mikael 
 
-- 🔭 Sou Academico de ADS(Análise e Desenvolvimento de Sistemas) cursando o 4 semestre 
-- 🌱 Estudado Front-End
-- 😄 Pronouns: ele/dele
+Sou de Fortaleza, Ceará, tenho 19 anos e estou cursando Análise e Desenvolvimento de Sistemas pela Estácio (Atualmente no 4 semestre)
 
+Atualmente trabalhando como operador de audio da Fundação José Possidônio Peixoto (TV Metrópole), em busca de oportunidade na área de TI. Estudando Front-End.
+
+💻 Linguagens: HTML5, CSS3 e Javascript.
+
+🛠️ Ferramentas: Trabalho usando a ferramenta VS Code e utilizo Photoshop (para edições/design).
 
 [![EMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDZPPHpGXhmJFfWDkBhMLqRVKRbXHJTJHLncRHFcLVhVlJgsVDHzXbFlGZjRdKqwjNTfqrM)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikael-vasconcelos-4b190625a/)
