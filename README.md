@@ -6,7 +6,7 @@ Atualmente trabalhando como operador de audio da Fundação José Possidônio Pe
 
 💻 Linguagens: HTML5, CSS3 e Javascript.
 
-🛠️ Ferramentas: Trabalho usando a ferramenta VS Code e utilizo Photoshop (para edições/design).
+🛠️ Ferramentas: Trabalho usando a ferramenta VS Code e utilizo Photoshop e Figma(para edições/design).
 
 [![EMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDZPPHpGXhmJFfWDkBhMLqRVKRbXHJTJHLncRHFcLVhVlJgsVDHzXbFlGZjRdKqwjNTfqrM)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikael-vasconcelos-4b190625a/)
