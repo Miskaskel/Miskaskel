@@ -4,8 +4,6 @@ Sou de Fortaleza, Ceará, tenho 19 anos e estou cursando Análise e Desenvolvime
 
 Atualmente trabalhando como operador de audio da Fundação José Possidônio Peixoto (TV Metrópole), em busca de oportunidade na área de TI. Estudando Front-End.
 
-💻 Linguagens: HTML5, CSS3 e Javascript.
-
 🛠️ Ferramentas: Trabalho usando a ferramenta VS Code e utilizo Photoshop e Figma(para edições/design).
 
 [![EMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDZPPHpGXhmJFfWDkBhMLqRVKRbXHJTJHLncRHFcLVhVlJgsVDHzXbFlGZjRdKqwjNTfqrM)
