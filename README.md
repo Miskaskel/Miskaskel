@@ -1,6 +1,6 @@
 ### Olá! Eu sou Mikael 
 
-Sou de Fortaleza, Ceará, tenho 19 anos e estou cursando Análise e Desenvolvimento de Sistemas pela Estácio (Atualmente no 4 semestre)
+Sou de Fortaleza, Ceará, tenho 21 anos e estou cursando Análise e Desenvolvimento de Sistemas pela Estácio (Atualmente no 4 semestre)
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=miskaskel&theme=radical&mode=weekly" />
